@@ -1,0 +1,25 @@
+> Measurement made Tue Oct  3 16:20:32 2023
+> Main magnet sweep  2.00000 to  7.00000 Tesla at  5.999 mT/s 
+> Hysteresis correction (approximate) has been applied. 
+> Main Magnet at  2.00000 T 
+> ITC set at  320.000 K, T1: 320.100 K, T2: 509.100 K, T3: 324.100 K 
+> For Cernox1 102.280100 Ohm corresponds to T = 999.000000 K at 0 T 
+> LockIn1:   1 mV, Mod Freq 39260.000000 Hz, Phase -3.020000 degr, Ampl. 0.080000 V
+>  Tc 0.100000 seconds, Slope 18/oct, Dyn Res Normal .
+> LockIn2:   1 mV, Mod Freq 39260.600000 Hz, Phase 178.460000 degr, Ampl. 0.010000 V
+>  Tc 0.100000 seconds, Slope 18/oct, Dyn Res Normal .
+> Modulation: 17.736800 mA 
+> Source Freq 120 GHz (dial 15.00), LO Freq 115.74 GHz (dial 5225) 
+> Martin Pupplet setting 6.6 mm, Attenuator Grid -18 dB
+> Source attn 20 dB, Diode reading (-20dB) 0.6 mV
+> Reference attn 0 dB, Diode reading (-30dB) 10 mV
+Field  Signal1_X  Signal2_X    Signal1_Y   Signal2_Y    
+T  mV mV mV mV 
+YMn6Sn6
+Mounted perpendicular
+120 G, 320K, coooled in zero field, Mod ~8G
+-
+-
+-
+
+>BEGIN
